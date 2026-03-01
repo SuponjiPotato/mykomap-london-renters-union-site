@@ -4,6 +4,8 @@ A project by the [London Renter's Union](https://londonrentersunion.org/) to map
 
 See the live version at https://map.renterpower.org/.
 
+Testing.
+
 # SYNOPSIS
 
 This is an experiment to configure DigitalCommon Coop (DCC)'s [`mykomap`](https://github.com/DigitalCommons/mykomap) to display London property licensing. <br/>
